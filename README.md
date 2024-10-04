@@ -11,6 +11,17 @@ The **ComponentsGuide** repository is designed to serve as a comprehensive refer
 - 🛠️ **How to Use**: Step-by-step guides for using components in real-world circuits.
 - 🧰 **Modules & Kits**: Overview and tutorials on various development kits and sensor modules.
 
+
+
+
+
+
+
+
+
+
+
+
 ## 📦 Contents
 
 1. **Resistors**
@@ -85,6 +96,61 @@ For each component, you will find a markdown document with:
 - **Usage instructions**
 - **Example circuits**
 - **Simulation files (Proteus, Fritzing, etc.)** where applicable.
+
+
+
+
+
+## ⚗️ **Experiments Gallery**
+
+<table>
+  <tr>
+    <td align="center" style="vertical-align: bottom;">
+      <a href="https://gmostofabd.github.io/8051-LED/">
+        <img src="https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation/blob/aceb06c4975f29b3eb4b97681455b6ac34920d15/8051%20LED/assets/images/LED_8051_Ckt.png?raw=true" alt="LED Blink" style="max-width: 100%; height: auto;">
+      </a>
+      <p><strong>Exp. 1: 8051 LED</strong></p>
+      <p>This experiment demonstrates how to blink an LED using the 8051 microcontroller.</p>
+    </td>
+    <td align="center" style="vertical-align: center;">
+      <a href="https://gmostofabd.github.io/8051-Push-Button/">
+        <img src="https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation/blob/aceb06c4975f29b3eb4b97681455b6ac34920d15/8051%20SSD%20Up%20Dn%20Counter/UP_DN_COUNTER.png?raw=true" alt="Push Button Interfacing" style="max-width: 100%; height: auto;">
+      </a>
+      <p><strong>Exp. 2: Push Button Interfacing</strong></p>
+      <p>Learn how to interface a push button with the 8051 to control outputs.</p>
+    </td>
+    <td align="center" style="vertical-align: bottom;">
+      <a href="https://gmostofabd.github.io/8051-7Segment/">
+        <img src="https://github.com/gmostofabd/melab-store/blob/main/8051%20Examples%20Simulation%20ScrnShots/8051%20Traffic%20Lights2.png?raw=true" alt="Seven Segment Display" style="max-width: 100%; height: auto;">
+      </a>
+      <p><strong>Exp. 3: Seven Segment Display</strong></p>
+      <p>Discover how to interface and display numbers on a seven-segment display.</p>
+    </td>
+  </tr>
+</table>
+
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation/blob/aceb06c4975f29b3eb4b97681455b6ac34920d15/8051%20DOT%20Matrix%20LED/8051%20DOT%20Matrix%20LED.png">  8051 LED |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation/blob/aceb06c4975f29b3eb4b97681455b6ac34920d15/8051%20LCD/AT89C51_8_BIT_LCD_(RW_PIN_TO_GND).png"> 8051 Push Button | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation/blob/8343a9874e5530a658bd2e023b0df2a4dee0359f/8051%20Stepper%20Motors/8051%20Stepper%20Motor.png?raw=true"> 8051 Stepper Motor|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation/blob/aceb06c4975f29b3eb4b97681455b6ac34920d15/AD0804%20LED/Schematic.png?raw=true">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation/blob/8343a9874e5530a658bd2e023b0df2a4dee0359f/8051%20Basic%20Calculator/8051%20Basic%20calculator.png?raw=true">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/melab-store/blob/main/8051%20Examples%20Simulation%20ScrnShots/8051%20L293D%20DC%20Motor.png?raw=true">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation/blob/8343a9874e5530a658bd2e023b0df2a4dee0359f/8051%20Stepper%20Motors/8051%20Stepper%20Motor.png?raw=true">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation/blob/aceb06c4975f29b3eb4b97681455b6ac34920d15/8051%20LCD/AT89C51_8_BIT_LCD_(RW_PIN_TO_GND).png?raw=true">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation/blob/aceb06c4975f29b3eb4b97681455b6ac34920d15/8051%20DOT%20Matrix%20LED/8051%20DOT%20Matrix%20LED.png?raw=true">|
+
+
+<br/>
+<br/>
+
+---
+
+
+
+
+
+
+
+
+
+
 
 ## 🔗 Additional Resources
 
