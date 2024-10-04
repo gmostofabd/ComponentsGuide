@@ -166,14 +166,3 @@ For each component, you will find a markdown document with:
 - [Electronics Basics](https://example.com)
 - [Circuit Simulation Software](https://example.com)
 
-## 🛠 Contributing
-
-We welcome contributions! If you have new components to add, please submit a pull request. Follow the contribution guidelines listed in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-## 📝 License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-Happy Building!
