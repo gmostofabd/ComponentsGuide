@@ -34,60 +34,46 @@ The **ComponentsGuide** repository is designed to serve as a comprehensive refer
 
 
 
-
-
-
 ## 📦 Contents
 
-1. **Resistors**
-   - Datasheets, tolerance levels, and usage examples.
-   
-2. **Capacitors**
-   - Types of capacitors, voltage ratings, and when to use them.
-   
-3. **Transistors**
-   - NPN, PNP, MOSFETs, and how to choose the right one.
-   
-4. **Microcontrollers**
-   - Popular MCUs like ATmega, ESP32, and their respective documentation.
+| **Category**        | **Details**                                                                                                 |
+|---------------------|-------------------------------------------------------------------------------------------------------------|
+| **Resistors**        | Datasheets, tolerance levels, and usage examples.                                                          |
+| **Capacitors**       | Types of capacitors, voltage ratings, and when to use them.                                                 |
+| **Transistors**      | NPN, PNP, MOSFETs, and how to choose the right one.                                                         |
+| **Microcontrollers** | Popular MCUs like ATmega, ESP32, and their respective documentation.                                        |
+| **Displays**         | **Seven-Segment Display (SSD)**: Pin configuration, interfacing techniques, and example circuits.<br>**Liquid Crystal Display (LCD)**: Working principles, 16x2 and 20x4 displays, and usage guides.<br>**Dot Matrix Display**: Connection diagrams, common driving ICs, and display patterns. |
+| **Sensors**          | **DHT11/DHT22**: Temperature and humidity sensor guides.<br>**LM35**: Analog temperature sensor with connection details and sample circuits.<br>**Gas Sensor**: Types of gas sensors (MQ series), pinout diagrams, and calibration techniques.<br>**Vibration Sensor**: How vibration sensors work, interfacing, and usage examples. |
+| **Shift Registers**  | **74HC595**: How to use this shift register for controlling multiple outputs with fewer pins.                |
+| **Motor Drivers**    | **L298N**: Dual H-bridge motor driver, pin configuration, and motor control examples.<br>**L293D**: H-bridge motor driver for DC motors and stepper motors.<br>**ULN2003**: Darlington transistor array for driving stepper motors and high-current loads. |
+| **Motors**           | **DC Motors**: Control and speed regulation techniques.<br>**Stepper Motors**: Interfacing and step sequence details.<br>**Servo Motors**: Control circuits and example projects. |
+| **Relays and Switches** | **Relays**: Electromechanical and solid-state relays, connection diagrams, and control circuits.<br>**Switches**: SPDT, DPDT, push buttons, and how to integrate them into circuits. |
+| **Buzzers and Sounders** | **Buzzers**: Piezoelectric and electromagnetic buzzers, connection examples.<br>**Sounders**: Different types of sounders and how to generate tones in projects. |
+| **Power Supplies**   | How to safely use different power supplies in your projects, including step-down and step-up converters.     |
+| **Others**           | Miscellaneous components like diodes, LEDs, and modules for wireless communication.                         |
 
-5. **Displays**
-   - **Seven-Segment Display (SSD)**: Pin configuration, interfacing techniques, and example circuits.
-   - **Liquid Crystal Display (LCD)**: Working principles, 16x2 and 20x4 displays, and usage guides.
-   - **Dot Matrix Display**: Connection diagrams, common driving ICs, and display patterns.
 
-6. **Sensors**
-   - **DHT11/DHT22**: Temperature and humidity sensor guides.
-   - **LM35**: Analog temperature sensor with connection details and sample circuits.
-   - **Gas Sensor**: Types of gas sensors (MQ series), pinout diagrams, and calibration techniques.
-   - **Vibration Sensor**: How vibration sensors work, interfacing, and usage examples.
 
-7. **Shift Registers**
-   - **74HC595**: How to use this shift register for controlling multiple outputs with fewer pins.
 
-8. **Motor Drivers**
-   - **L298N**: Dual H-bridge motor driver, pin configuration, and motor control examples.
-   - **L293D**: H-bridge motor driver for DC motors and stepper motors.
-   - **ULN2003**: Darlington transistor array for driving stepper motors and high-current loads.
 
-9. **Motors**
-   - **DC Motors**: Control and speed regulation techniques.
-   - **Stepper Motors**: Interfacing and step sequence details.
-   - **Servo Motors**: Control circuits and example projects.
+## 📂 Available Downloads
 
-10. **Relays and Switches**
-   - **Relays**: Electromechanical and solid-state relays, connection diagrams, and control circuits.
-   - **Switches**: SPDT, DPDT, push buttons, and how to integrate them into circuits.
+| **Category**        | **Files**                                                                                                 |
+|---------------------|-------------------------------------------------------------------------------------------------------------|
+| **DC Motor**    | 1. [Datasheet.pdf](#)<br>2. [Tutorials.brd](#)<br>3. [8051.hex](#)<br>4. [Code.asm](#)<br>5. [Bill_of_Materials.xlsx](#)<br>6. [Simulation_File.sim](#) |
+| **Datasheets**       | 1. [Resistor_Datasheet.pdf](#)<br>2. [Capacitor_Datasheet.pdf](#)<br>3. [Transistor_Datasheet.pdf](#)<br>4. [Microcontroller_Datasheet.pdf](#)<br>5. [MotorDriver_Datasheet.pdf](#)<br>6. [LCD_Datasheet.pdf](#) |
+| **Tutorials**        | 1. [LED_Blink_Tutorial.pdf](#)<br>2. [Motor_Control_Tutorial.pdf](#)<br>3. [ADC_Interface_Tutorial.pdf](#)<br>4. [LCD_Display_Tutorial.pdf](#)<br>5. [I2C_Communication_Tutorial.pdf](#)<br>6. [StepperMotor_Control_Tutorial.pdf](#) |
+| **Libraries**        | 1. [Arduino_Library.zip](#)<br>2. [ESP32_Library.zip](#)<br>3. [8051_Library.zip](#)<br>4. [LCD_Library.zip](#)<br>5. [Sensor_Module_Library.zip](#)<br>6. [MotorDriver_Library.zip](#) |
+| **Simulation Files** | 1. [Proteus_8051_Sim.pdsprj](#)<br>2. [Proteus_Arduino_Sim.pdsprj](#)<br>3. [Proteus_LCD_Sim.pdsprj](#)<br>4. [Proteus_Stepper_Sim.pdsprj](#)<br>5. [Proteus_Sensor_Sim.pdsprj](#)<br>6. [Proteus_MotorDriver_Sim.pdsprj](#) |
+| **3D Models**        | 1. [LCD_3DModel.step](#)<br>2. [MotorDriver_3DModel.step](#)<br>3. [Microcontroller_3DModel.step](#)<br>4. [SensorModule_3DModel.step](#)<br>5. [PCB_Enclosure_3DModel.step](#)<br>6. [StepperMotor_3DModel.step](#) |
 
-11. **Buzzers and Sounders**
-   - **Buzzers**: Piezoelectric and electromagnetic buzzers, connection examples.
-   - **Sounders**: Different types of sounders and how to generate tones in projects.
 
-12. **Power Supplies**
-   - How to safely use different power supplies in your projects, including step-down and step-up converters.
 
-13. **Others**
-   - Miscellaneous components like diodes, LEDs, and modules for wireless communication.
+
+
+
+
+
 
 ## 🔑 Keywords
 
