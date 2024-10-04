@@ -1,6 +1,6 @@
 # ComponentsGuide
 
-A collection of interactive reference documents for common components, modules, and kits that we frequently use to build various project circuits. This repository provides detailed information such as datasheets, alternatives, usage guides, and much more.
+A collection of interactive reference documents for common components, modules, and kits that we frequently use to build various project circuits. This repository provides detailed information such as datasheets, alternatives, usage guides, simulations, and much more.
 
 ## 📖 About
 
@@ -16,16 +16,6 @@ The **ComponentsGuide** repository is designed to serve as a comprehensive refer
 ---
 
 ## 🔧 Components List
-
-### 1. **8051 LED Control Circuit**
-
-| | | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="400" alt="8051 LED" src="https://github.com/gmostofabd/ComponentsGuide/blob/b6f91232321f7c3995b69abe1e885eef73e5f40c/assets/images/1602lcd1.png?raw=true">  **8051 LED** |  <img width="400" alt="8051 Push Button" src="https://github.com/gmostofabd/ComponentsGuide/blob/5ec04f86fdf0c6e84a89c7989a7d38dbcf733541/assets/images/smoisture1.png?raw=true"> **8051 Push Button** | <img width="400" alt="8051 Stepper Motor" src="https://github.com/gmostofabd/ComponentsGuide/blob/5ec04f86fdf0c6e84a89c7989a7d38dbcf733541/assets/images/dcmotor1.jpg?raw=true"> **8051 Stepper Motor** | <img width="400" alt="8051 LCD" src="https://github.com/gmostofabd/ComponentsGuide/blob/5ec04f86fdf0c6e84a89c7989a7d38dbcf733541/assets/images/rtcDS1307module1.png?raw=true"> **8051 LCD** |
-| **Datasheet**: [Link](#) | **Proteus Simulation**: [Download](#) | **3D CAD File**: [Download](#) | **DC Motor**: [View](#) |
-| LED control with 8051 microcontroller | Simple push-button circuit | Stepper motor interfacing with 8051 |  |
-
-
 
 
 
