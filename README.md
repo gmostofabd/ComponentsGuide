@@ -130,18 +130,12 @@ For each component, you will find a markdown document with:
 </table>
 
 
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation/blob/aceb06c4975f29b3eb4b97681455b6ac34920d15/8051%20DOT%20Matrix%20LED/8051%20DOT%20Matrix%20LED.png">  8051 LED |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation/blob/aceb06c4975f29b3eb4b97681455b6ac34920d15/8051%20LCD/AT89C51_8_BIT_LCD_(RW_PIN_TO_GND).png"> 8051 Push Button | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation/blob/8343a9874e5530a658bd2e023b0df2a4dee0359f/8051%20Stepper%20Motors/8051%20Stepper%20Motor.png?raw=true"> 8051 Stepper Motor|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation/blob/aceb06c4975f29b3eb4b97681455b6ac34920d15/AD0804%20LED/Schematic.png?raw=true">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation/blob/8343a9874e5530a658bd2e023b0df2a4dee0359f/8051%20Basic%20Calculator/8051%20Basic%20calculator.png?raw=true">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/melab-store/blob/main/8051%20Examples%20Simulation%20ScrnShots/8051%20L293D%20DC%20Motor.png?raw=true">|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation/blob/8343a9874e5530a658bd2e023b0df2a4dee0359f/8051%20Stepper%20Motors/8051%20Stepper%20Motor.png?raw=true">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation/blob/aceb06c4975f29b3eb4b97681455b6ac34920d15/8051%20LCD/AT89C51_8_BIT_LCD_(RW_PIN_TO_GND).png?raw=true">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation/blob/aceb06c4975f29b3eb4b97681455b6ac34920d15/8051%20DOT%20Matrix%20LED/8051%20DOT%20Matrix%20LED.png?raw=true">|
-
-
-<br/>
-<br/>
-
----
-
+| | | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="400" alt="8051 LED" src="https://github.com/gmostofabd/ComponentsGuide/blob/b6f91232321f7c3995b69abe1e885eef73e5f40c/assets/images/1602lcd1.png?raw=true">  **8051 LED** |  <img width="400" alt="8051 Push Button" src="https://github.com/gmostofabd/ComponentsGuide/blob/b6f91232321f7c3995b69abe1e885eef73e5f40c/assets/images/rtcDS1307module1.png?raw=true"> **8051 Push Button** | <img width="400" alt="8051 Stepper Motor" src="https://github.com/gmostofabd/ComponentsGuide/blob/b6f91232321f7c3995b69abe1e885eef73e5f40c/assets/images/1602lcd1.png?raw=true"> **8051 Stepper Motor** | <img width="400" alt="8051 LCD" src="https://github.com/gmostofabd/ComponentsGuide/blob/b6f91232321f7c3995b69abe1e885eef73e5f40c/assets/images/1602lcd1.png?raw=true"> **8051 LCD** |
+| 8051 LED control using Assembly | Interfacing push button with 8051 | Stepper motor control using 8051 | Interfacing LCD with 8051 for display |
+|<img width="400" alt="8051 Basic Calculator" src="https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation/blob/8343a9874e5530a658bd2e023b0df2a4dee0359f/8051%20Basic%20Calculator/8051%20Basic%20calculator.png?raw=true">  **8051 Calculator** |  <img width="400" alt="RTC DS1307 Module" src="https://github.com/gmostofabd/ComponentsGuide/blob/b6f91232321f7c3995b69abe1e885eef73e5f40c/assets/images/rtcDS1307module1.png?raw=true"> **RTC DS1307 Module** | <img width="400" alt="Seven-Segment Display" src="https://github.com/gmostofabd/ComponentsGuide/blob/b6f91232321f7c3995b69abe1e885eef73e5f40c/assets/images/1602lcd1.png?raw=true"> **Seven-Segment Display** | <img width="400" alt="8051 Analog Reading" src="https://github.com/gmostofabd/ComponentsGuide/blob/b6f91232321f7c3995b69abe1e885eef73e5f40c/assets/images/1602lcd1.png?raw=true"> **8051 Analog Reading** |
+| Simple calculator using 8051 in Assembly | Real-Time Clock module with 8051 | Display digits on SSD with 8051 | Analog-to-digital reading with 8051 |
 
 
 
