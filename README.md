@@ -1,5 +1,12 @@
 # ComponentsGuide
 
+<p align="center">
+  <img src="https://github.com/gmostofabd/ComponentsGuide/blob/c67c71d381351a326beba8034497dfb0c33aa2cc/assets/images/Electronics%20Components%20Types.jpg" alt="8051 Microcontroller Tutorials Banner" width="90%">
+</p>
+
+
+
+
 A collection of interactive reference documents for common components, modules, and kits frequently used to build various project circuits. This repository provides detailed information such as datasheets, usage guides, design alternatives, customizations, and much more.
 
 ## 📖 About
@@ -106,6 +113,11 @@ Electronic symbols and functional diagrams are essential tools for understanding
 
 # ⚡ Major Electronics Formulas
 
+<p align="center">
+  <img src="https://github.com/gmostofabd/ComponentsGuide/blob/c67c71d381351a326beba8034497dfb0c33aa2cc/assets/images/Electronics%20Formulas-Ohm's%20Law.jpg" alt="8051 Microcontroller Tutorials Banner" width="90%">
+</p>
+
+
 ## 📖 Introduction
 Understanding the fundamental formulas in electronics is crucial for analyzing and designing circuits. Below is a table summarizing some of the most important formulas used in electronics along with their explanations.
 
@@ -167,6 +179,11 @@ These formulas serve as the backbone for many calculations in electronics. Maste
 
 
 # 📐 Electronics Symbols
+
+<p align="center">
+  <img src="https://github.com/gmostofabd/ComponentsGuide/blob/c67c71d381351a326beba8034497dfb0c33aa2cc/assets/images/Electronics%20Components%20Types.jpg" alt="8051 Microcontroller Tutorials Banner" width="90%">
+</p>
+
 
 ## 📖 Introduction
 Electronics symbols are graphical representations of components used in circuit diagrams or schematics. These symbols help convey the function and connection of components in a standardized, easy-to-understand way. By using these symbols, engineers and technicians can communicate complex circuit designs without needing to describe each component in detail.
@@ -381,6 +398,9 @@ The color code system is a quick and effective way to identify the values of res
 
 
 
+<p align="center">
+  <img src="https://github.com/gmostofabd/ComponentsGuide/blob/c67c71d381351a326beba8034497dfb0c33aa2cc/assets/images/Electronics%20Components%20Manfg.jpg" alt="8051 Microcontroller Tutorials Banner" width="90%">
+</p>
 
 
 
