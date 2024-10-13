@@ -508,7 +508,7 @@ For each component, you will find a markdown document with:
   <tr>
     <td align="center" style="vertical-align: bottom;">
       <a href="https://gmostofabd.github.io/8051-LED/">
-        <img src="https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation/blob/aceb06c4975f29b3eb4b97681455b6ac34920d15/8051%20LED/assets/images/LED_8051_Ckt.png?raw=true" alt="LED Blink" style="max-width: 100%; height: auto;">
+        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/5c4d73085261394b30833f410e63821ad87ed425/assets/images/componentsBanner1.jpg?raw=true" alt="LED Blink" style="max-width: 100%; height: auto;">
       </a>
       <p><strong>Exp. 1: 8051 LED</strong></p>
       <p>This experiment demonstrates how to blink an LED using the 8051 microcontroller.</p>
