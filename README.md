@@ -193,27 +193,27 @@ In electronics, symbols are used in circuit diagrams to represent components. Fu
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-ac-generator.png" width="100" /><br/>
+        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-push-button.png" width="100" /><br/>
         <b>Caption 1</b><br/>
       </td>
       <td align="center">
-        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-battery.png" width="100" /><br/>
+        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-loudspeaker.png" width="100" /><br/>
         <b>Caption 2</b><br/>
       </td>
       <td align="center">
-        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-voltmeter.png" width="100" /><br/>
+        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-motor.png" width="100" /><br/>
         <b>Caption 3</b><br/>
       </td>
       <td align="center">
-        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-ammeter.png" width="100" /><br/>
+        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-npn.png" width="100" /><br/>
         <b>Caption 4</b><br/>
       </td>
       <td align="center">
-        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-bulb-lamp.png" width="100" /><br/>
+        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-pnp.png" width="100" /><br/>
         <b>Caption 5</b><br/>
       </td>
       <td align="center">
-        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-chassis-ground.png" width="100" /><br/>
+        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-operational-amplifier.png" width="100" /><br/>
         <b>Caption 6</b><br/>
       </td>
     </tr>
