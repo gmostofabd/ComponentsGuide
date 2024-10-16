@@ -193,7 +193,7 @@ In electronics, symbols are used in circuit diagrams to represent components. Fu
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-push-button.png" width="100" /><br/>
+        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-no-push-button.png" width="100" /><br/>
         <b>Caption 1</b><br/>
       </td>
       <td align="center">
