@@ -99,9 +99,6 @@ The **ComponentsGuide** repository is designed as a comprehensive reference for 
 ---
 
 
-
-
-
 # ⚡ Electronic Components: Symbols and Functional Diagrams
 
 ## 📖 Introduction
@@ -109,40 +106,127 @@ In electronics, symbols are used in circuit diagrams to represent components. Fu
 
 ---
 
-| **Component**        | **Symbol**                | **Functional Diagram**                | **Description**                                                                 |
-|----------------------|---------------------------|---------------------------------------|---------------------------------------------------------------------------------|
-| **Resistor**          | ![Resistor Symbol](https://upload.wikimedia.org/wikipedia/commons/8/8d/IEC_Symbol_Resistor.svg) | ![Resistor Function](https://upload.wikimedia.org/wikipedia/commons/3/36/Resistor-function.svg) | Resists the flow of electric current, creating a voltage drop.                 |
-| **Capacitor**         | ![Capacitor Symbol](https://upload.wikimedia.org/wikipedia/commons/4/4e/IEC_Symbol_Capacitor.svg) | ![Capacitor Function](https://upload.wikimedia.org/wikipedia/commons/5/57/Capacitor_functional.svg) | Stores electric charge temporarily and releases it when needed.               |
-| **Inductor**          | ![Inductor Symbol](https://upload.wikimedia.org/wikipedia/commons/7/7f/Inductor_symbol.svg)      | ![Inductor Function](https://upload.wikimedia.org/wikipedia/commons/5/5a/Inductor-functional.svg) | Stores energy in a magnetic field when electric current flows through it.      |
-| **Diode**             | ![Diode Symbol](https://upload.wikimedia.org/wikipedia/commons/e/ea/Diode_symbol.svg)            | ![Diode Function](https://upload.wikimedia.org/wikipedia/commons/8/8b/Diode-functional-diagram.svg) | Allows current to flow in one direction only, blocking the reverse flow.       |
-| **LED (Light Emitting Diode)** | ![LED Symbol](https://upload.wikimedia.org/wikipedia/commons/7/77/LED_circuit_symbol.svg) | ![LED Function](https://upload.wikimedia.org/wikipedia/commons/a/a5/LED-Functional-Diagram.svg) | Emits light when current flows through it in the forward direction.            |
-| **Transistor (NPN)**  | ![NPN Symbol](https://upload.wikimedia.org/wikipedia/commons/8/84/Transistor_NPN_symbol.svg)     | ![NPN Function](https://upload.wikimedia.org/wikipedia/commons/5/53/NPN-transistor-function.svg) | A switch or amplifier that controls large current using small input current.   |
-| **Transistor (PNP)**  | ![PNP Symbol](https://upload.wikimedia.org/wikipedia/commons/f/f1/Transistor_PNP_symbol.svg)     | ![PNP Function](https://upload.wikimedia.org/wikipedia/commons/c/c9/PNP-transistor-function.svg) | Similar to NPN but current flows in the opposite direction.                    |
-| **Photodiode**        | ![Photodiode Symbol](https://upload.wikimedia.org/wikipedia/commons/0/01/Photodiode_symbol.svg)  | ![Photodiode Function](https://upload.wikimedia.org/wikipedia/commons/e/e9/Photodiode_functional.svg) | Converts light into electrical current; used in light-sensing applications.    |
-| **Zener Diode**       | ![Zener Diode Symbol](https://upload.wikimedia.org/wikipedia/commons/9/9b/Zener_symbol.svg)      | ![Zener Diode Function](https://upload.wikimedia.org/wikipedia/commons/a/a4/Zener-functional-diagram.svg) | Allows current to flow backwards when a specific voltage is reached.           |
-| **Battery**           | ![Battery Symbol](https://upload.wikimedia.org/wikipedia/commons/f/f6/Battery_symbol.svg)        | ![Battery Function](https://upload.wikimedia.org/wikipedia/commons/f/f8/Battery-functional-diagram.svg) | Provides a voltage source by storing chemical energy and converting it to electrical energy. |
-| **Ground**            | ![Ground Symbol](https://upload.wikimedia.org/wikipedia/commons/e/eb/Electrical_ground_symbol_IEC.svg) | ![Ground Function](https://upload.wikimedia.org/wikipedia/commons/5/54/Earth-ground-function.svg) | A reference point in circuits for zero voltage, commonly used in power circuits. |
-| **Switch**            | ![Switch Symbol](https://upload.wikimedia.org/wikipedia/commons/7/70/Switch_symbol.svg)          | ![Switch Function](https://upload.wikimedia.org/wikipedia/commons/7/7a/Switch-functional.svg) | Controls the flow of current by opening (off) or closing (on) the circuit.     |
-| **Relay**             | ![Relay Symbol](https://upload.wikimedia.org/wikipedia/commons/3/36/Relay_symbol_IEC.svg)        | ![Relay Function](https://upload.wikimedia.org/wikipedia/commons/a/a6/Relay-functional-diagram.svg) | Electrically operated switch used to control a high-power circuit with a low-power signal. |
-| **Op-Amp (Operational Amplifier)** | ![Op-Amp Symbol](https://upload.wikimedia.org/wikipedia/commons/8/86/OpAmp_symbol_IEC.svg) | ![Op-Amp Function](https://upload.wikimedia.org/wikipedia/commons/6/6c/Op-amp-functional-diagram.svg) | Amplifies voltage with high input impedance and low output impedance.          |
-| **Crystal Oscillator** | ![Crystal Oscillator Symbol](https://upload.wikimedia.org/wikipedia/commons/2/2f/Crystal_symbol.svg) | ![Crystal Oscillator Function](https://upload.wikimedia.org/wikipedia/commons/2/29/Oscillator-functional-diagram.svg) | Generates precise frequency signals for timing applications.                  |
-| **Transformer**       | ![Transformer Symbol](https://upload.wikimedia.org/wikipedia/commons/9/92/Transformer_symbol.svg) | ![Transformer Function](https://upload.wikimedia.org/wikipedia/commons/3/30/Transformer-functional-diagram.svg) | Transfers electrical energy between circuits through electromagnetic induction. |
-| **Speaker**           | ![Speaker Symbol](https://upload.wikimedia.org/wikipedia/commons/6/64/Speaker_symbol.svg)        | ![Speaker Function](https://upload.wikimedia.org/wikipedia/commons/0/0b/Speaker-functional-diagram.svg) | Converts electrical signals into sound by vibrating a diaphragm.              |
-| **Buzzer**            | ![Buzzer Symbol](https://upload.wikimedia.org/wikipedia/commons/c/c3/Buzzer_symbol.svg)          | ![Buzzer Function](https://upload.wikimedia.org/wikipedia/commons/a/a6/Buzzer-functional-diagram.svg) | Produces sound or a tone when powered.                                        |
 
----
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-ac-generator.png" width="100" /><br/>
+        <b>Caption 1</b><br/>
+        Description of Image 1<br/>
+        [Link 1](link1_url)
+      </td>
+      <td align="center">
+        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-battery.png" width="100" /><br/>
+        <b>Caption 2</b><br/>
+        Description of Image 2<br/>
+        [Link 2](link2_url)
+      </td>
+      <td align="center">
+        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-voltmeter.png" width="100" /><br/>
+        <b>Caption 3</b><br/>
+        Description of Image 3<br/>
+        [Link 3](link3_url)
+      </td>
+      <td align="center">
+        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-ammeter.png" width="100" /><br/>
+        <b>Caption 4</b><br/>
+        Description of Image 4<br/>
+        [Link 4](link4_url)
+      </td>
+      <td align="center">
+        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-bulb-lamp.png" width="100" /><br/>
+        <b>Caption 5</b><br/>
+        Description of Image 5<br/>
+        [Link 5](link5_url)
+      </td>
+      <td align="center">
+        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-chassis-ground.png" width="100" /><br/>
+        <b>Caption 6</b><br/>
+        Description of Image 6<br/>
+        [Link 6](link6_url)
+      </td>
+    </tr>
+  </table>
+</div>
 
-## 📘 Conclusion
-Electronic symbols and functional diagrams are essential tools for understanding and designing circuits. Symbols simplify complex designs, while functional diagrams illustrate how the components behave in real-world applications. Mastering these representations is key to success in electronics engineering.
 
 
+
+
+
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-gate-and.png" width="100" /><br/>
+        <b>Caption 1</b><br/>
+      </td>
+      <td align="center">
+        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-gate-or.png" width="100" /><br/>
+        <b>Caption 2</b><br/>
+      </td>
+      <td align="center">
+        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-gate-not.png" width="100" /><br/>
+        <b>Caption 3</b><br/>
+      </td>
+      <td align="center">
+        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-gate-nand.png" width="100" /><br/>
+        <b>Caption 4</b><br/>
+      </td>
+      <td align="center">
+        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-gate-nor.png" width="100" /><br/>
+        <b>Caption 5</b><br/>
+      </td>
+      <td align="center">
+        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-gate-xor.png" width="100" /><br/>
+        <b>Caption 6</b><br/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-no-push-button.png" width="100" /><br/>
+        <b>Caption 1</b><br/>
+      </td>
+      <td align="center">
+        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-loudspeaker.png" width="100" /><br/>
+        <b>Caption 2</b><br/>
+      </td>
+      <td align="center">
+        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-motor.png" width="100" /><br/>
+        <b>Caption 3</b><br/>
+      </td>
+      <td align="center">
+        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-npn.png" width="100" /><br/>
+        <b>Caption 4</b><br/>
+      </td>
+      <td align="center">
+        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-pnp.png" width="100" /><br/>
+        <b>Caption 5</b><br/>
+      </td>
+      <td align="center">
+        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-operational-amplifier.png" width="100" /><br/>
+        <b>Caption 6</b><br/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
 # ⚡ Major Electronics Formulas
 
+
 <p align="center">
-  <img src="https://github.com/gmostofabd/ComponentsGuide/blob/c67c71d381351a326beba8034497dfb0c33aa2cc/assets/images/Electronics%20Formulas-Ohm's%20Law.jpg" alt="8051 Microcontroller Tutorials Banner" width="90%">
+  <img src="https://github.com/gmostofabd/ComponentsGuide/blob/c67c71d381351a326beba8034497dfb0c33aa2cc/assets/images/Electronics%20Formulas-Ohm's%20Law.jpg" alt="Ohm's Law" width="70%">
 </p>
 
 
@@ -201,7 +285,7 @@ This guide introduces some of the most common electronics symbols used in circui
 ## 1. **Passive Components Symbols**
 
 - **Resistor**  
-  Symbol: ![Resistor Symbol](https://upload.wikimedia.org/wikipedia/commons/2/25/Resistor_symbol.svg)  
+  Symbol: ![Resistor Symbol](https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-ac-generator.png)  
   Function: Limits the flow of electrical current.  
   Usage: Indicated by a zig-zag line or a rectangle (depending on standard).
 
