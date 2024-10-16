@@ -25,64 +25,6 @@ The **ComponentsGuide** repository is designed as a comprehensive reference for 
 
 ---
 
-
-
-
-
-## 🔧 Components List
-
-
-
-
-
-
-
-
-## 📦 Contents
-
-| **Category**        | **Details**                                                                                                 |
-|---------------------|-------------------------------------------------------------------------------------------------------------|
-| **Resistors**        | Datasheets, tolerance levels, and usage examples.                                                          |
-| **Capacitors**       | Types of capacitors, voltage ratings, and when to use them.                                                 |
-| **Transistors**      | NPN, PNP, MOSFETs, and how to choose the right one.                                                         |
-| **Microcontrollers** | Popular MCUs like ATmega, ESP32, and their respective documentation.                                        |
-| **Displays**         | **Seven-Segment Display (SSD)**: Pin configuration, interfacing techniques, and example circuits.<br>**Liquid Crystal Display (LCD)**: Working principles, 16x2 and 20x4 displays, and usage guides.<br>**Dot Matrix Display**: Connection diagrams, common driving ICs, and display patterns. |
-| **Sensors**          | **DHT11/DHT22**: Temperature and humidity sensor guides.<br>**LM35**: Analog temperature sensor with connection details and sample circuits.<br>**Gas Sensor**: Types of gas sensors (MQ series), pinout diagrams, and calibration techniques.<br>**Vibration Sensor**: How vibration sensors work, interfacing, and usage examples. |
-| **Shift Registers**  | **74HC595**: How to use this shift register for controlling multiple outputs with fewer pins.                |
-| **Motor Drivers**    | **L298N**: Dual H-bridge motor driver, pin configuration, and motor control examples.<br>**L293D**: H-bridge motor driver for DC motors and stepper motors.<br>**ULN2003**: Darlington transistor array for driving stepper motors and high-current loads. |
-| **Motors**           | **DC Motors**: Control and speed regulation techniques.<br>**Stepper Motors**: Interfacing and step sequence details.<br>**Servo Motors**: Control circuits and example projects. |
-| **Relays and Switches** | **Relays**: Electromechanical and solid-state relays, connection diagrams, and control circuits.<br>**Switches**: SPDT, DPDT, push buttons, and how to integrate them into circuits. |
-| **Buzzers and Sounders** | **Buzzers**: Piezoelectric and electromagnetic buzzers, connection examples.<br>**Sounders**: Different types of sounders and how to generate tones in projects. |
-| **Power Supplies**   | How to safely use different power supplies in your projects, including step-down and step-up converters.     |
-| **Others**           | Miscellaneous components like diodes, LEDs, and modules for wireless communication.                         |
-
----
-
-
-
-
-
-
-
-## ⚗️ **Experiments Gallery**
-
-
-
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/ComponentsGuide/blob/550718e42440f091d62d44cf5ca3d69c11f7eb3b/assets/images/Components%20Guide%20(Basic%20Parts).png">  Basic Components |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/ComponentsGuide/blob/550718e42440f091d62d44cf5ca3d69c11f7eb3b/assets/images/Components%20Guide%20(Breadboards).png"> Breadboards | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/ComponentsGuide/blob/550718e42440f091d62d44cf5ca3d69c11f7eb3b/assets/images/Components%20Guide%20(Manufacturers).png?raw=true"> Popular Manufacturers|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/ComponentsGuide/blob/550718e42440f091d62d44cf5ca3d69c11f7eb3b/assets/images/Components%20Guide%20(Packagings).png?raw=true">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/ComponentsGuide/blob/550718e42440f091d62d44cf5ca3d69c11f7eb3b/assets/images/Components%20Guide%20(Transistor%20Packagings).png?raw=true">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/ComponentsGuide/blob/550718e42440f091d62d44cf5ca3d69c11f7eb3b/assets/images/Components%20Guide%20(Basic%20Parts_1).png?raw=true">|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation/blob/8343a9874e5530a658bd2e023b0df2a4dee0359f/8051%20Stepper%20Motors/8051%20Stepper%20Motor.png?raw=true">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/ComponentsGuide/blob/550718e42440f091d62d44cf5ca3d69c11f7eb3b/assets/images/Electronics%20Components%20Types.jpg?raw=true">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/ComponentsGuide/blob/550718e42440f091d62d44cf5ca3d69c11f7eb3b/assets/images/Electronics%20Formulas-Ohm's%20Law.jpg?raw=true">|
-
-
-<br/>
-<br/>
-
----
-
-
-
-
 ## 🔑 Keywords
 
 - Resistors, Capacitors, Transistors
@@ -99,12 +41,21 @@ The **ComponentsGuide** repository is designed as a comprehensive reference for 
 ---
 
 
-# ⚡ Electronic Components: Symbols and Functional Diagrams
+
+# 📐 Electronics Symbols
+
+<p align="center">
+  <img src="https://github.com/gmostofabd/ComponentsGuide/blob/c67c71d381351a326beba8034497dfb0c33aa2cc/assets/images/Electronics%20Components%20Types.jpg" alt="8051 Microcontroller Tutorials Banner" width="90%">
+</p>
+
 
 ## 📖 Introduction
-In electronics, symbols are used in circuit diagrams to represent components. Functional diagrams provide additional insights into how the components work in circuits. Below is a complete table listing common electronic components with their symbols and simplified functional diagrams.
+Electronics symbols are graphical representations of components used in circuit diagrams or schematics. These symbols help convey the function and connection of components in a standardized, easy-to-understand way. By using these symbols, engineers and technicians can communicate complex circuit designs without needing to describe each component in detail.
+
+This guide introduces some of the most common electronics symbols used in circuit diagrams.
 
 ---
+
 
 
 <div align="center">
@@ -262,115 +213,25 @@ Understanding the fundamental formulas in electronics is crucial for analyzing a
 
 ---
 
-## 📘 Conclusion
-These formulas serve as the backbone for many calculations in electronics. Mastery of these relationships allows engineers and hobbyists to analyze and design efficient electronic circuits effectively.
 
 
 
 
-# 📐 Electronics Symbols
-
-<p align="center">
-  <img src="https://github.com/gmostofabd/ComponentsGuide/blob/c67c71d381351a326beba8034497dfb0c33aa2cc/assets/images/Electronics%20Components%20Types.jpg" alt="8051 Microcontroller Tutorials Banner" width="90%">
-</p>
 
 
-## 📖 Introduction
-Electronics symbols are graphical representations of components used in circuit diagrams or schematics. These symbols help convey the function and connection of components in a standardized, easy-to-understand way. By using these symbols, engineers and technicians can communicate complex circuit designs without needing to describe each component in detail.
+## ⚗️ **Experiments Gallery**
 
-This guide introduces some of the most common electronics symbols used in circuit diagrams.
 
----
 
-## 1. **Passive Components Symbols**
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/ComponentsGuide/blob/550718e42440f091d62d44cf5ca3d69c11f7eb3b/assets/images/Components%20Guide%20(Basic%20Parts).png">  Basic Components |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/ComponentsGuide/blob/550718e42440f091d62d44cf5ca3d69c11f7eb3b/assets/images/Components%20Guide%20(Breadboards).png"> Breadboards | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/ComponentsGuide/blob/550718e42440f091d62d44cf5ca3d69c11f7eb3b/assets/images/Components%20Guide%20(Manufacturers).png?raw=true"> Popular Manufacturers|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/ComponentsGuide/blob/550718e42440f091d62d44cf5ca3d69c11f7eb3b/assets/images/Components%20Guide%20(Packagings).png?raw=true">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/ComponentsGuide/blob/550718e42440f091d62d44cf5ca3d69c11f7eb3b/assets/images/Components%20Guide%20(Transistor%20Packagings).png?raw=true">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/ComponentsGuide/blob/550718e42440f091d62d44cf5ca3d69c11f7eb3b/assets/images/Components%20Guide%20(Basic%20Parts_1).png?raw=true">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation/blob/8343a9874e5530a658bd2e023b0df2a4dee0359f/8051%20Stepper%20Motors/8051%20Stepper%20Motor.png?raw=true">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/ComponentsGuide/blob/550718e42440f091d62d44cf5ca3d69c11f7eb3b/assets/images/Electronics%20Components%20Types.jpg?raw=true">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/ComponentsGuide/blob/550718e42440f091d62d44cf5ca3d69c11f7eb3b/assets/images/Electronics%20Formulas-Ohm's%20Law.jpg?raw=true">|
 
-- **Resistor**  
-  Symbol: ![Resistor Symbol](https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-ac-generator.png)  
-  Function: Limits the flow of electrical current.  
-  Usage: Indicated by a zig-zag line or a rectangle (depending on standard).
 
-- **Capacitor**  
-  Symbol: ![Capacitor Symbol](https://upload.wikimedia.org/wikipedia/commons/0/07/Capacitor_symbol.svg)  
-  Function: Stores and releases electrical energy.  
-  Usage: Represented by two parallel lines, one of which may be curved for polarized capacitors.
-
-- **Inductor**  
-  Symbol: ![Inductor Symbol](https://upload.wikimedia.org/wikipedia/commons/a/a0/Inductor_symbol.svg)  
-  Function: Stores energy in a magnetic field.  
-  Usage: Shown as a series of loops or a coil shape.
-
----
-
-## 2. **Active Components Symbols**
-
-- **Transistor**  
-  Symbol: ![Transistor Symbol](https://upload.wikimedia.org/wikipedia/commons/e/e5/NPN_symbol.svg)  
-  Function: Acts as a switch or amplifier for electrical signals.  
-  Usage: There are two main types: NPN and PNP. Each has a distinct arrow direction indicating current flow.
-
-- **Diode**  
-  Symbol: ![Diode Symbol](https://upload.wikimedia.org/wikipedia/commons/5/5e/Diode_symbol.svg)  
-  Function: Allows current to flow in only one direction.  
-  Usage: Represented by a triangle pointing toward a line.
-
-- **LED (Light Emitting Diode)**  
-  Symbol: ![LED Symbol](https://upload.wikimedia.org/wikipedia/commons/4/48/LED_symbol.svg)  
-  Function: Emits light when current passes through.  
-  Usage: Shown as a diode symbol with arrows pointing away to indicate light emission.
-
----
-
-## 3. **Electromechanical Components Symbols**
-
-- **Switch**  
-  Symbol: ![Switch Symbol](https://upload.wikimedia.org/wikipedia/commons/5/5c/Switch_symbol.svg)  
-  Function: Manually opens or closes an electrical circuit.  
-  Usage: Represented by a break in a line with a small lever.
-
-- **Relay**  
-  Symbol: ![Relay Symbol](https://upload.wikimedia.org/wikipedia/commons/0/02/Relay_symbol.svg)  
-  Function: Electrically controlled switch.  
-  Usage: Often shown with a coil and set of contacts that switch when activated.
-
-- **Motor**  
-  Symbol: ![Motor Symbol](https://upload.wikimedia.org/wikipedia/commons/4/4a/Motor_symbol.svg)  
-  Function: Converts electrical energy into mechanical motion.  
-  Usage: Typically shown as a circle with the letter "M" inside.
-
----
-
-## 4. **Power Supply Symbols**
-
-- **Battery**  
-  Symbol: ![Battery Symbol](https://upload.wikimedia.org/wikipedia/commons/9/90/Battery_symbol.svg)  
-  Function: Provides a constant source of electrical power.  
-  Usage: Represented by alternating long and short parallel lines, indicating positive and negative terminals.
-
-- **Ground**  
-  Symbol: ![Ground Symbol](https://upload.wikimedia.org/wikipedia/commons/7/71/Ground_symbol.svg)  
-  Function: Serves as a reference point for circuit voltage levels.  
-  Usage: Shown as a series of descending lines or a triangle.
-
----
-
-## 5. **Optoelectronic Components Symbols**
-
-- **Photodiode**  
-  Symbol: ![Photodiode Symbol](https://upload.wikimedia.org/wikipedia/commons/8/8b/Photodiode_symbol.svg)  
-  Function: Converts light into electrical current.  
-  Usage: Similar to a diode symbol, but with arrows pointing towards the triangle.
-
-- **Optocoupler**  
-  Symbol: ![Optocoupler Symbol](https://upload.wikimedia.org/wikipedia/commons/6/68/Optocoupler_symbol.svg)  
-  Function: Transfers electrical signals using light between two isolated circuits.  
-  Usage: Contains a diode symbol with a light-sensitive element inside a box.
-
----
-
-## 📘 Conclusion
-Electronics symbols are vital in circuit design, as they allow for clear, efficient communication between engineers and technicians. Learning these symbols is crucial for anyone working in electronics, as they represent the core components of any circuit.
-
-You can find more electronics symbols in any electronics textbook or by exploring **circuit simulation software** like Proteus or KiCad, which provide detailed symbol libraries.
+<br/>
+<br/>
 
 ---
 
