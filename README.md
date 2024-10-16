@@ -224,8 +224,9 @@ In electronics, symbols are used in circuit diagrams to represent components. Fu
 
 # ⚡ Major Electronics Formulas
 
+
 <p align="center">
-  <img src="https://github.com/gmostofabd/ComponentsGuide/blob/c67c71d381351a326beba8034497dfb0c33aa2cc/assets/images/Electronics%20Formulas-Ohm's%20Law.jpg" alt="8051 Microcontroller Tutorials Banner" width="90%">
+  <img src="https://github.com/gmostofabd/ComponentsGuide/blob/c67c71d381351a326beba8034497dfb0c33aa2cc/assets/images/Electronics%20Formulas-Ohm's%20Law.jpg" alt="Ohm's Law" width="70%">
 </p>
 
 
