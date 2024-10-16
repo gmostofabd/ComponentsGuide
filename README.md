@@ -99,6 +99,61 @@ The **ComponentsGuide** repository is designed as a comprehensive reference for 
 ---
 
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-ac-generator.png" width="100" /><br/>
+        <b>Caption 1</b><br/>
+        Description of Image 1<br/>
+        [Link 1](link1_url)
+      </td>
+      <td align="center">
+        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-battery.png" width="100" /><br/>
+        <b>Caption 2</b><br/>
+        Description of Image 2<br/>
+        [Link 2](link2_url)
+      </td>
+      <td align="center">
+        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-voltmeter.png" width="100" /><br/>
+        <b>Caption 3</b><br/>
+        Description of Image 3<br/>
+        [Link 3](link3_url)
+      </td>
+      <td align="center">
+        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-ammeter.png" width="100" /><br/>
+        <b>Caption 4</b><br/>
+        Description of Image 4<br/>
+        [Link 4](link4_url)
+      </td>
+      <td align="center">
+        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-bulb-lamp.png" width="100" /><br/>
+        <b>Caption 5</b><br/>
+        Description of Image 5<br/>
+        [Link 5](link5_url)
+      </td>
+      <td align="center">
+        <img src="https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-chassis-ground.png" width="100" /><br/>
+        <b>Caption 6</b><br/>
+        Description of Image 6<br/>
+        [Link 6](link6_url)
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -201,7 +256,7 @@ This guide introduces some of the most common electronics symbols used in circui
 ## 1. **Passive Components Symbols**
 
 - **Resistor**  
-  Symbol: ![Resistor Symbol](https://upload.wikimedia.org/wikipedia/commons/2/25/Resistor_symbol.svg)  
+  Symbol: ![Resistor Symbol](https://github.com/gmostofabd/ComponentsGuide/blob/cbfbf3cd51734722ed8152c18d561e0a9b702b19/assets/images/CircuitSymbols/symbol-ac-generator.png)  
   Function: Limits the flow of electrical current.  
   Usage: Indicated by a zig-zag line or a rectangle (depending on standard).
 
