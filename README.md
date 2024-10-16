@@ -1,13 +1,16 @@
-# ComponentsGuide
+# Components Guide
 
 <p align="center">
   <img src="https://github.com/gmostofabd/ComponentsGuide/blob/c67c71d381351a326beba8034497dfb0c33aa2cc/assets/images/Electronics%20Components%20Types.jpg" alt="8051 Microcontroller Tutorials Banner" width="90%">
 </p>
 
 
-
+<p align="center">
 
 A collection of interactive reference documents for common components, modules, and kits frequently used to build various project circuits. This repository provides detailed information such as datasheets, usage guides, design alternatives, customizations, and much more.
+
+</p>
+
 
 ## 📖 About
 
@@ -76,13 +79,6 @@ The **ComponentsGuide** repository is designed as a comprehensive reference for 
 <br/>
 
 ---
-
-
-
-
-
-
-
 
 
 
@@ -184,28 +180,6 @@ Understanding the fundamental formulas in electronics is crucial for analyzing a
 
 ## 📘 Conclusion
 These formulas serve as the backbone for many calculations in electronics. Mastery of these relationships allows engineers and hobbyists to analyze and design efficient electronic circuits effectively.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -428,14 +402,9 @@ The color code system is a quick and effective way to identify the values of res
 
 
 
-
-
 <p align="center">
   <img src="https://github.com/gmostofabd/ComponentsGuide/blob/c67c71d381351a326beba8034497dfb0c33aa2cc/assets/images/Electronics%20Components%20Manfg.jpg" alt="8051 Microcontroller Tutorials Banner" width="90%">
 </p>
-
-
-
 
 
 
